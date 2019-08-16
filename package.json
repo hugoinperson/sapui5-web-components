@@ -1,0 +1,23 @@
+{
+  "name": "sapui5-web-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoinperson/sapui5-web-components.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoinperson/sapui5-web-components/issues"
+  },
+  "homepage": "https://github.com/hugoinperson/sapui5-web-components#readme",
+  "dependencies": {
+    "@ui5/webcomponents": "^1.0.0-rc.2"
+  }
+}
